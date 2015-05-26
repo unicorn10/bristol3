@@ -44,6 +44,11 @@
                         </value>
                       </block>
                     </value>
+                    <next>
+                      <block type="oled_drawtext" id="314">
+                        <field name="TEXT">STOP BEING IN DENIAL UNICORNS ARE REAL!</field>
+                      </block>
+                    </next>
                   </block>
                 </next>
               </block>
