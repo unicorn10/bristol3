@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_setcursor" id="242" inline="true" x="-21" y="241">
+  <block type="oled_setcursor" id="242" inline="true" x="-45" y="65">
     <value name="STARTX">
       <block type="math_number" id="252">
         <field name="NUM">10</field>
